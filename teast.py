@@ -1,6 +1,4 @@
 
-print("Pointless")
-
 print("Nothing at all")
 
 def neverUse():
