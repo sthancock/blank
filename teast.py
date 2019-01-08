@@ -1,6 +1,7 @@
 
 print("Nothing at all")
 
-
-print("Adding a bit more functionality")
+def neverUse():
+  print("Adding a bit more functionality")
+  return
 
